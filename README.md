@@ -7,7 +7,7 @@ Türk Hava Kurumu Üniversitesi Bilgisayar Mühendisliği **CENG 201** dersi kap
 
 ## 📋 Haftalık Lab Listesi
 
-| Hafta | Konu / İçerik | Dil / Teknoloji | Repo Linki | Durum |
+| Hafta | Konu / İçerik | Dil / Teknoloji | Durum |
 | :--- | :--- | :--- | :--- | :--- |
 | **Lab 01** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab1) | ✅ Tamamlandı |
 | **Lab 02** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab2) | ✅ Tamamlandı |
