@@ -9,11 +9,11 @@ Türk Hava Kurumu Üniversitesi Bilgisayar Mühendisliği **CENG 201** dersi kap
 
 | Hafta | Konu / İçerik | Dil / Teknoloji | Repo Linki | Durum |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lab 01** | `Java` | [Koda Git]([LAB1_REPO_LINKI](https://github.com/ilkedenizz/CENG201_Lab1)) | ✅ Tamamlandı |
-| **Lab 02** | `Java` | [Koda Git]([LAB2_REPO_LINKI](https://github.com/ilkedenizz/CENG201_Lab2)) | ✅ Tamamlandı |
-| **Lab 03** | `Java` | [Koda Git]([LAB3_REPO_LINKI](https://github.com/ilkedenizz/CENG201_Lab3)) | ✅ Tamamlandı |
-| **Lab 04** | `Java` | [Koda Git]([LAB4_REPO_LINKI](https://github.com/ilkedenizz/CENG201_Lab4)) | ✅ Tamamlandı |
-| **Lab 05** | `Java` | [Koda Git]([LAB5_REPO_LINKI](https://github.com/ilkedenizz/CENG201_Lab5)) | ✅ Tamamlandı |
+| **Lab 01** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab1) | ✅ Tamamlandı |
+| **Lab 02** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab2) | ✅ Tamamlandı |
+| **Lab 03** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab3) | ✅ Tamamlandı |
+| **Lab 04** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab4) | ✅ Tamamlandı |
+| **Lab 05** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab5) | ✅ Tamamlandı |
 | **Lab 06** | *Gelecek hafta eklenecek...* | - | - | ⏳ Bekliyor |
 
 ---
