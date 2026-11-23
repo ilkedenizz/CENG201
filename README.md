@@ -14,7 +14,8 @@ Türk Hava Kurumu Üniversitesi Bilgisayar Mühendisliği **CENG 201** dersi kap
 | **Lab 03** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab3) | ✅ Tamamlandı |
 | **Lab 04** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab4) | ✅ Tamamlandı |
 | **Lab 05** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab5) | ✅ Tamamlandı |
-| **Lab 06** | *Gelecek hafta eklenecek...* | - | ⏳ Bekliyor |
+| **Lab 06** | `Java` | [Koda Git](https://github.com/ilkedenizz/CENG201_Lab6) | ✅ Tamamlandı |
+| **Lab 07** | *Gelecek hafta eklenecek...* | - | ⏳ Bekliyor |
 
 ---
 
